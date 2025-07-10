@@ -140,7 +140,7 @@
   <section id="contact">
     <div class="section-title">Contact & Links</div>
     <div class="glow-box">
-      <p>Email: <a href="mailto:kyomihq@example.com">kyomihq@example.com</a></p>
+      <p>Email: <a href="mailto:kyomihq@gmail.com">kyomihq@example.com</a></p>
       <p>Also on: Twitch, YouTube, TikTok</p>
     </div>
   </section>
