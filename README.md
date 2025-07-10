@@ -131,9 +131,9 @@
   <section id="community">
     <div class="section-title">Join the Community</div>
     <div class="glow-box">
-      <p>🎮 <a href="https://twitch.tv/yourusername" target="_blank">Watch the stream</a></p>
-      <p>💬 <a href="https://discord.gg/yourserver" target="_blank">Join the Discord</a></p>
-      <p>📸 <a href="https://instagram.com/yourusername" target="_blank">Follow on Instagram</a></p>
+      <p>🎮 <a href="https://twitch.tv/KyesAStitch" target="_blank">Watch the stream</a></p>
+      <p>💬 <a href="https://discord.gg/27689QcWS4" target="_blank">Join the Discord</a></p>
+      <p>📸 <a href="https://instagram.com/KyesAStitch" target="_blank">Follow on Instagram</a></p>
     </div>
   </section>
 
